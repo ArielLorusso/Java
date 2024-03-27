@@ -1,0 +1,30 @@
+http://www.btechsmartclass.com/data_structures/introduction-to-graphs.html
+
+
+VERTEX      Individual data element of a graph is called as Vertex. 
+            Vertex is also known as node.
+
+EDGES
+    Undirected Edge An undirected egde is a bidirectional edge. 
+                    If there is undirected edge between vertices A and B 
+                    then edge (A , B) is equal to edge (B , A).
+    Directed Edge - A directed egde is a unidirectional edge. 
+                    If there is directed edge between vertices A and B 
+                    then edge (A , B) is not equal to edge (B , A).
+    Weighted Edge - A weighted egde is a edge with value (cost) on it.
+
+
+CATEGORIES
+    Undirected Graph
+                A graph with only undirected edges is said to be undirected graph.
+
+    Directed Graph
+            A graph with only directed edges is said to be directed graph.
+
+    Mixed Graph
+        A graph with both undirected and directed edges is said to be mixed graph.
+
+
+End vertices or Endpoints
+
+The two vertices joined by edge are called end vertices (or endpoints) of that edge.

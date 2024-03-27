@@ -1,0 +1,20 @@
+ <!-- https://odoepner.wordpress.com/2013/07/19/play-mp3-or-ogg-using-javax-sound-sampled-mp3spi-vorbisspi/
+    
+    We have to explicitly instruct Maven to use tritonus-share 0.3.7-2 
+    and NOT 0.3.7-1, otherwise vorbisspi won't work.
+   -->
+<dependency>
+  <groupId>com.googlecode.soundlibs</groupId>
+  <artifactId>tritonus-share</artifactId>
+  <version>0.3.7-2</version>
+</dependency>
+<dependency>
+  <groupId>com.googlecode.soundlibs</groupId>
+  <artifactId>mp3spi</artifactId>
+  <version>1.9.5-1</version>
+</dependency>
+<dependency>
+  <groupId>com.googlecode.soundlibs</groupId>
+  <artifactId>vorbisspi</artifactId>
+  <version>1.0.3-1</version>
+</dependency>

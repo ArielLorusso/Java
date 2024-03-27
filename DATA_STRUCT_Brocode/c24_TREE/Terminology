@@ -1,0 +1,8 @@
+http://www.btechsmartclass.com/data_structures/tree-terminology.html
+
+TREE  Non linear Hierarchical data-stricture
+
+
+Nodes Data can be Parent or Child of a Node at other Level (Deph)
+Edges Vertical connection between Nedes 
+Deph  Distance from Rooth
